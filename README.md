@@ -3,23 +3,16 @@
 <!-- <h1 align="center">Hi 👋, I'm Dan</h1> -->
 <!-- <h3 align="center">A software engineer</h3> -->
 
-I'm a software engineer passionate about learning new things and challenging myself.
-I'm interested in ML/DL, enjoy designing and building backend services,
-optimizing performance, and working with developer tools.
+I'm a Software engineer focused on backend/data systems and AI-powered tooling.
 
-- 🧑‍🎓 Computer Engineering graduate from Purdue University
-- 🔭 I’m currently working on exploring ways to contribute to open-source
-- 🌱 I’m currently learning Go and how to build Neovim plugins
-- 💻 Linux, Neovim, and Open-source enthusiast
-- 🛠️ I'm a software engineer, so of course I waste all my time tweaking my configs
-    <!-- - 👯 I’m looking to collaborate on ... -->
-    <!-- - 🤝 I’m looking for help with ... -->
-    <!-- - 👨‍💻 All of my projects are available at []() -->
-    <!-- - 📝 I regularly write articles on []() -->
-    <!-- - 💬 Ask me about **** -->
-    <!-- - 📫 How to reach me **** -->
-    <!-- - 📄 Know about my experiences []() -->
-    <!-- - ⚡ Fun fact: I've never had issues creating usernames with my first name -- pongpatapee -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤝 I’m looking for help with ... -->
+<!-- - 👨‍💻 All of my projects are available at []() -->
+<!-- - 📝 I regularly write articles on []() -->
+<!-- - 💬 Ask me about **** -->
+<!-- - 📫 How to reach me **** -->
+<!-- - 📄 Know about my experiences []() -->
+<!-- - ⚡ Fun fact: I've never had issues creating usernames with my first name -- pongpatapee -->
 
 [![Linkedin: pongpatapee](https://img.shields.io/badge/-pongpatapee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pongpatapee-peerapatanapokin/)](https://www.linkedin.com/in/pongpatapee-peerapatanapokin/)
 [![GitHub: pongpatapee](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/pongpatapee)
